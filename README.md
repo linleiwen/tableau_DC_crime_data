@@ -1,14 +1,19 @@
 Tableau Report 4
 Group 2: Tingting Ju, Aimee Li, Yizi Li, Leiwen Lin, Jiaying Shi
+
 At group 2, we chose DC Metro Crime Data as the dataset to be visualized in our tableau project. This set includes records of “crimes in the DC metro police system ranging from Theft, Arson, Assault, Homicide, Sex Abuse, Robbery, and Burglary” (https://www.kaggle.com/vinchinzu/dc-metro-crime-data), between 2000 and 2016.
+
 We chose this dataset for the following reasons. First, as newcomers to the DC metro area, knowing the crime rate and distribution around metro stations can greatly improve our ability to protect ourselves. As there are many in our class who are new to the area and are frequent metro riders, we believe this dataset will be of great interest to our classmates.
+
 Secondly, this dataset contains time variables such as year, month and date. It also has geographic information, in addition to many other attributes. It can easily be visualized in multiple ways including mapping, time series, categorical analysis, cross-section comparison, etc. Such a rich dataset will enable us to explore the full potential of the tableau software.
+
 Thirdly, this dataset is rather complete. No null field is visible at a first glance. This simplifies the data preparation step. We could start looking for trends and correlations directly. In addition, there is the possibility of taking advantage of existing kernels for the analysis of this dataset. 
 
 After all our group members have completed the introductory training videos, we met up once after we gained basic understand of tableau to discuss how to apply it to our dataset. To create visualization of our dataset, we first imported it to tableau. Then unnecessary columns, such as Census Tract, CCN, were removed. We combined columns NS and EW to create a single dimension variable for easy visualization. We also learned how to use filters and pages panes to simplify the figure. 
+
 We created several graphs to analyze the dataset. First, we studied the frequency of different types of crimes and discovered that THEFT is the most common crime. 
+
 Secondly, we turned to the regional distribution and plotted the crime location on a map to find out which area in DC has the highest criminal rate. The graph clearly shows that the northeast of DC has the highest number of crimes in all time periods. 
- 
  
 Then, we tried to figure out the hourly timing pattern of crimes. Generally speaking, 12:00pm and 18:00 are the most dangerous time around the metro stations. We recommend people to plan their activities accordingly or be extra vigilant if obligated to go out around those hours. 
 
