@@ -1,6 +1,6 @@
-﻿Tableau Report 4
+# Tableau Report 4
 
-Group 2: Tingting Ju, Aimee Li, Yizi Li, Leiwen Lin, Jiaying Shi
+## Group 2: Tingting Ju, Aimee Li, Yizi Li, Leiwen Lin, Jiaying Shi
 
 As group 2, we chose DC Metro Crime Data as the dataset to be visualized in our tableau project. This set includes records of “crimes in the DC metro police system ranging from Theft, Arson, Assault, Homicide, Sex Abuse, Robbery, and Burglary” (https://www.kaggle.com/vinchinzu/dc-metro-crime-data), between 2000 and 2016.
 
