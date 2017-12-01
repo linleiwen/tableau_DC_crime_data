@@ -2,6 +2,8 @@
 
 ## Group 2: Tingting Ju, Aimee Li, Yizi Li, Leiwen Lin, Jiaying Shi
 
+###tableau: workbook online: https://public.tableau.com/profile/linleiwen#!/vizhome/DCcrimesVisuliazation/Story1?publish=yes
+
 As group 2, we chose DC Metro Crime Data as the dataset to be visualized in our tableau project. This set includes records of “crimes in the DC metro police system ranging from Theft, Arson, Assault, Homicide, Sex Abuse, Robbery, and Burglary” (https://www.kaggle.com/vinchinzu/dc-metro-crime-data), between 2000 and 2016.
 
 We chose this dataset for the following reasons. First, as newcomers to the DC metro area, knowing the crime rate and distribution around metro stations can greatly improve our ability to protect ourselves. As there are many in our class who are new to the area and are frequent metro riders, we believe this dataset will be of great interest to our classmates. Secondly, this dataset contains not only the time variables such as year, month and date that we can use to analysis timing pattern of crimes, but also enough geographic information which is useful for regional distribution analysis. Such a rich dataset can easily be visualized in multiple ways including mapping, time series, categorical analysis, cross-section comparison, etc. and enable us to explore the full potential of the tableau software. Thirdly, this dataset is rather complete. No null field is visible at a first glance. This simplifies the data preparation step. We could start looking for trends and correlations directly. In addition, there is the possibility of taking advantage of existing kernels for the analysis of this dataset.
